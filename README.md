@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Elysia 👋  
 
-<!--
-**plumppiggy/plumppiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ University of Waterloo  
+--- 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+`C++` `Python` `Java` `C#` `JavaScript/TypeScript`  
+
+**Tools & Frameworks**  
+`React` `Node.js` `Docker` `Git` `SQL`  
+
+**Interests**  
+`Systems Programming` `Controls Engineering` `Full-Stack Development`  
+
+---
+
+## 📈 GitHub Stats  
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=plumppiggy&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumppiggy&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+
+- [LinkedIn](https://linkedin.com/in/elysia-darbourne)   
+- [Email](mailto:e2darbou@uwaterloo.ca)  
+
+---
+⭐️ *Thanks for visiting!*
